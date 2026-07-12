@@ -5,7 +5,7 @@
 ### AI/ML Engineer
 
 <a href="https://linkedin.com/in/hissanzahir">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Applications;Computer+Vision+%7C+PyTorch+%7C+FastAPI;RAG+%7C+LangChain+%7C+LangGraph;Full-Stack+AI+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Applications;Full-Stack+AI+Developer" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hissanzahir)
