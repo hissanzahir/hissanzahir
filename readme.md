@@ -2,7 +2,7 @@
 
 # Hi, I'm Hissan Zahir
 
-### AI/ML Engineer • Computer Vision • Full-Stack Developer
+### AI/ML Engineer
 
 <a href="https://linkedin.com/in/hissanzahir">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Applications;Computer+Vision+%7C+PyTorch+%7C+FastAPI;RAG+%7C+LangChain+%7C+LangGraph;Full-Stack+AI+Developer" />
