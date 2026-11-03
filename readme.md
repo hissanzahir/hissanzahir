@@ -19,11 +19,11 @@
 
 ## About Me
 
-I'm a Computer Science student focused on artificial intelligence and computer vision. I specialize in engineering end-to-end AI systems handling everything from data collection and model training to deploying scalable full-stack web and mobile applications.
+I'm a AI/ML Engineer. I specialize in engineering end-to-end AI systems handling everything from data collection and model training to deploying scalable full-stack web and mobile applications.
 
 - **Currently building:** F1GPT, a RAG-powered Formula 1 chatbot
 - **Currently learning:** RAG architectures, LangGraph, AI Agents, and LLM fine-tuning.
-- **Let's collaborate:** I'm always open to teaming up on computer vision, AI/ML, and full-stack projects.
+- **Let's collaborate:** I'm always open to teaming up on projects.
 
 
 ---
@@ -89,22 +89,6 @@ An end-to-end AI system for diabetic retinopathy classification. It features Gra
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hissanzahir&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hissanzahir&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 ---
 
