@@ -94,8 +94,6 @@ An end-to-end AI system for diabetic retinopathy classification. It features Gra
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hissanzahir&theme=tokyonight&hide_border=true" height="165"/>
